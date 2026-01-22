@@ -86,7 +86,7 @@ I am actively exploring **AI-integrated applications**, aiming to combine intell
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/SagarKr1  
-- LinkedIn: https://www.linkedin.com/in/your-link  
+- LinkedIn: https://www.linkedin.com/in/sagar-kumar-a53175271  
 
 ---
 
