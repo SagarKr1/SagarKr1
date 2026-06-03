@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Kumar</h1>
 <h3 align="center">Full Stack Developer | Backend Engineer | AWS Engineer</h3>
-
----
-
-<h1 align="center">Hi 👋, I'm Sagar Kumar</h1>
 <h3 align="center">Applied Machine Learning Engineer | Software Engineer | AWS Cloud</h3>
 
 ---
